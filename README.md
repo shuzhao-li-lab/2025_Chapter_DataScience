@@ -6,9 +6,9 @@ The included notebooks are intended to be run on **Google Colab** for easy acces
 
 - ***Notebook 00 (Python)***: Jupyter notebook basics (5 minute tutorial) or an in-depth tutorial.
   
-- ***Notebook 01 (Python)***: Understanding core LC-MS concepts and exploring raw metabolomics data using common metabolomics/data science tools such as pandas, seaborn, pymzML, and asari (e.g. plotting spectrum, mass tracks, chromatograms)
+- ***Notebook 01 (Python)***: Understanding core LC-MS concepts and exploring unprocessed LC-MS metabolomics data using common metabolomics/data science tools such as pandas, seaborn, pymzML, and asari (e.g. plotting spectrum, mass tracks, chromatograms)
 
-- ***Notebook 02 (R & Python)***: Analyzing processed metabolomics data using stats, ggplot2, and tidyr (e.g. PCAs, data normalization, and univariate analysis)
+- ***Notebook 02 (R & Python)***: Analyzing processed metabolomics data (i.e. feature table) using stats, ggplot2, and tidyr (e.g. PCAs, data normalization, and univariate analysis)
 
 Jupyter supports multiple programming languages; the book chapter focuses on Python and R, the two most widely used in metabolomics data science.
 
