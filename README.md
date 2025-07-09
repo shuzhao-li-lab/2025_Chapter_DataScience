@@ -10,9 +10,9 @@ The included notebooks are intended to be run on **Google Colab** for easy acces
   
 - ***Notebook 01 (Python)***: Exploring LC-MS metabolomics data, plotting spectrum, mass tracks and extracted chromatograms. This uses common data science tools such as numpy, pandas, matplotlib and seaborn; metabolomics tools like pymzML and asari. 
 
-- ***Notebook 02 Python***: Common examples of metabolomics data analysis in Python (data wrangling, Student t-tests, FDR-correction, fold-change, and volcano plots).
+- ***Notebook 02 (Python)***: Common examples of metabolomics data analysis in Python (data wrangling, Student t-tests, FDR-correction, fold-change, and volcano plots).
 
-- ***Notebook 02 R***: Common examples of metabolomics data analysis in R.
+- ***Notebook 02 (R)***: Common examples of metabolomics data analysis in R (data filtering and normalization, Student t-tests, FDR-correction, fold-change, and volcano plots).
 
 Jupyter supports multiple programming languages; the book chapter focuses on Python and R, the two most widely used in metabolomics data science.
 
